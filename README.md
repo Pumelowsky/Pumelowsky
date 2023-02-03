@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-- 🔭 I’m currently working on **BizCard - React business card generator**(github.com/Pumelowsky/BizCard)
+- 🔭 I’m currently working on [**BizCard - React business card generator**](github.com/Pumelowsky/BizCard)
 
 - 🌱 I’m currently learning **React and PHP**
 
