@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**MP3Player-backend**](https://github.com/Pumelowsky/MP3Player-backend)
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [github.com/Pumelowsky](https://github.com/Pumelowsky)
 
