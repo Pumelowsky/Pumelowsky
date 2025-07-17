@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-- 🔭 I’m currently working on [**MP3Player-backend**](https://github.com/Pumelowsky/MP3Player-backend)
+- 🔭 I’m currently working on [**Portfolio**](https://dgrochowina.pl)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **.NET, Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [github.com/Pumelowsky](https://github.com/Pumelowsky)
 
 - 📫 How to reach me **pumelowsky@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [Resume](https://dgrochowina.pl/api/CV_DamianGrochowina.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
