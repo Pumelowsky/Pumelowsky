@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a DevOps Engineer and Full-Stack Developer who likes to sit right where infrastructure meets product. I care about clean pipelines, reproducible environments, and interfaces that feel effortless — building things that scale without becoming a maintenance headache.
+I'm a DevOps Engineer and Full-Stack Developer who likes to sit right where infrastructure meets product. I care about clean pipelines, reproducible environments, and interfaces that feel effortless - building things that scale without becoming a maintenance headache.
 
 - 🔧 I automate the boring parts: CI/CD, containers, and cloud infrastructure
 - ⚛️ I build front to back, with a soft spot for React
@@ -70,10 +70,10 @@ I'm a DevOps Engineer and Full-Stack Developer who likes to sit right where infr
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio — [dgrochowina.pl](https://dgrochowina.pl)
-- 💼 LinkedIn — [linkedin.com/in/damian-grochowina](https://www.linkedin.com/in/damian-grochowina)
-- ✉️ Email — [damian.grochowina@solidstudio.io](mailto:damian.grochowina@solidstudio.io)
+- 🌐 Portfolio - [dgrochowina.pl](https://dgrochowina.pl)
+- 💼 LinkedIn - [linkedin.com/in/damian-grochowina](https://www.linkedin.com/in/damian-grochowina)
+- ✉️ Email - [damian.grochowina@solidstudio.io](mailto:damian.grochowina@solidstudio.io)
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to reach out! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by - feel free to reach out! 🚀</i></p>
