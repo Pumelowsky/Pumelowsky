@@ -57,8 +57,6 @@ I'm a DevOps Engineer and Full-Stack Developer who likes to sit right where infr
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> 💡 Adjust the badges above to match your day-to-day stack — swap, add, or remove any.
-
 ---
 
 ## 🌱 Currently Working On
